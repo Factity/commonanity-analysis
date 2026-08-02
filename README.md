@@ -4,7 +4,7 @@
 
 Adapted from safer AI source - > [source](https://www.safer-ai.org/u/2025/10/683494404e94003392d7dc8b_G7-Hiroshima-AI-Process-Code-of-Conduct-and-EU-AI-Act-GPAI-Commonality-Analysis.pdf)
 
-![[Pasted image 20260801010554.png]]
+![Alt text](Pasted%20image%2020260801010554.png)
 
 
 | Subject of code of Conduct                                                      | Action                   | High or complete commonality | Some commonality | little or no commonality | Total |
